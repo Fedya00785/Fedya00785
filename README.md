@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fedya
-- 👀 I’m interested in Java, HTML, Python Core, C++
+- 👀 I’m interested in Java, HTML, Python Core, C++, C#
 - 🌱 I’m currently learning JavaScript, CSS, PHP, SQL
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me e-mail: fedya00785@mail.ru, viber, whatsapp
